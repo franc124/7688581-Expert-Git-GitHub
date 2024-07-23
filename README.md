@@ -1,6 +1,10 @@
 # Open Transport
 
+<<<<<<< HEAD
 Application web pour covoiturage au senegal. 
+=======
+Application web pour covoiturage au cameroun. 
+>>>>>>> 499588f6ef530e4c5a7d44e2442f766f266cca2f
 
 ## Getting Started
 
